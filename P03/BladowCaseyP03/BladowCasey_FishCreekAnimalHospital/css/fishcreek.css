@@ -1,0 +1,160 @@
+﻿footer
+{
+	text-align:center;
+	font-style:italic;
+	font-size:.80em;
+}
+
+footer a:link
+{
+	color:#FF0000;
+}
+
+footer a:visited
+{
+	color: #00FF00;
+}
+
+footer a:hover
+{
+	color:#FF00FF;
+}
+
+footer a:active
+{
+	color:#0000FF;
+}
+
+nav
+{
+	text-align:center;
+	float:left;
+	width:200px;
+	padding-top:10px;
+}
+
+nav a
+{
+	text-decoration:none;
+	text-align:center;
+	padding-bottom:15px;
+}
+
+nav a:link
+{
+	color: #996633;
+}
+
+nav ul
+{
+	list-style-type:none;
+}
+
+header, nav, figure, footer
+{
+	display:block;
+}
+	
+img
+{
+	border-style:none;
+	border:0px;
+}
+
+header
+{
+	background-image:url('../images/fishcreeklogo.gif');
+	background-repeat:no-repeat;
+	background-position:center;
+	background-color:#000066;
+	color:#000000;
+	line-height: 700%;
+}
+
+body
+{
+	background-image:url('../images/bluebackground.jpg');
+	background-repeat:repeat-x;
+	color:#330000;
+	font-family:"Times New Roman", Times, serif;
+}
+
+#wrapper
+{
+	margin-left:auto;
+	margin-right:auto;
+	width:80%;
+	background-color:#ffffcc;
+	max-width: 900px;
+}
+
+.details
+{
+	padding-left:20%;
+	padding-right:20%;
+	padding-bottom:35px;
+}
+
+#contact
+{
+	color:#333;
+}
+
+dt
+{
+	font-family:Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+dd
+{
+	color:#666;
+}
+
+li
+{
+	font-weight:bold;	
+}
+
+p
+{
+	padding-left:30px;
+	color:#666;
+}
+
+#askthevet
+{
+	color:#666;
+}
+
+#content
+{
+	padding:10px 20px 30px;
+	margin-left: 175px;
+}
+
+h2
+{
+	font-family:Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+table
+{
+	margin:auto;
+	width:80%;
+	border-collapse:collapse;
+}
+
+table, td, th
+{
+	border:2px solid black;
+}
+
+th
+{
+	font-family:Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+input, textarea{
+	margin-bottom:20px;
+	display:block;
+}

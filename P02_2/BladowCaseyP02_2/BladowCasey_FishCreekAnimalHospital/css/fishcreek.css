@@ -1,0 +1,53 @@
+#footer
+{
+	text-align:center;
+	font-style:italic;
+	font-size:.80em;
+	color:#F00;
+}
+
+#menu
+{
+	text-align:center;
+}
+
+#pageTitle
+{
+	text-align:center;
+	color:#000000;
+	line-height: 200%;
+}
+
+body
+{
+	background-color:#0FF;
+	color:#330000;
+	font-family:"Times New Roman", Times, serif;
+}
+
+#wrapper
+{
+	margin-left:auto;
+	margin-right:auto;
+	width:80%;
+}
+
+#contact
+{
+	color:#333;
+}
+
+dt
+{
+	font-weight:bold;
+}
+
+dd
+{
+	color:#666;
+}
+
+li
+{
+	font-weight:bold;	
+}

@@ -1,0 +1,71 @@
+﻿#footer
+{
+	background-color:#ccaa66;
+	text-align:center;
+	font-style:italic;
+	font-size:.60em;
+	color:#000000;
+}
+
+#menu
+{
+	text-align:center;
+}
+
+#pageTitle
+{
+	text-align:center;
+	background-color:#ccaa66;
+	color:#000000;
+	line-height: 200%;
+	background-repeat:no-repeat;
+	background-position:center;
+}
+
+body
+{
+	background-color:#ffffcc;
+	color:#330000;
+	font-family:Veranda, Arial, sans-serif;
+	background-image:url('../images/background.gif');
+}
+
+#wrapper
+{
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#ffffcc;
+}
+
+
+h3
+{
+	background-color:#ccaa66;
+	color:#993300;
+}
+
+#Melanie
+{
+	width:400px;
+	display: block;
+ 	margin-right: auto;
+ 	margin-left: auto;
+}
+
+#Tahoe
+{
+	width:400px;
+	display: block;
+ 	margin-right: auto;
+ 	margin-left: auto;
+}
+
+#contact
+{
+	padding-left:10px;
+}
+
+#content
+{
+	padding-left:10px;
+}

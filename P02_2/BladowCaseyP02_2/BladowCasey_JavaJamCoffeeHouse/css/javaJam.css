@@ -1,0 +1,35 @@
+﻿#footer
+{
+	background-color:#ccaa66;
+	text-align:center;
+	font-style:italic;
+	font-size:.60em;
+	color:#000000;
+}
+
+#menu
+{
+	text-align:center;
+}
+
+#pageTitle
+{
+	text-align:center;
+	background-color:#ccaa66;
+	color:#000000;
+	line-height: 200%;
+}
+
+body
+{
+	background-color:#ffffcc;
+	color:#330000;
+	font-family:Veranda, Arial, sans-serif;
+}
+
+#wrapper
+{
+	margin-left:auto;
+	margin-right:auto;
+	width:80%;
+}

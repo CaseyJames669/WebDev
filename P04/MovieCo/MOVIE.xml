@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2013-09-18T15:41:56">
+<MOVIE>
+<Movie_Num>1234</Movie_Num>
+<Movie_Title>The Cesar Family Christmas</Movie_Title>
+<Movie_Year>2009</Movie_Year>
+<Movie_Cost>39.95</Movie_Cost>
+<Movie_Genre>FAMILY</Movie_Genre>
+<Price_Code>2</Price_Code>
+</MOVIE>
+<MOVIE>
+<Movie_Num>1235</Movie_Num>
+<Movie_Title>Smokey Mountain Wildlife</Movie_Title>
+<Movie_Year>2006</Movie_Year>
+<Movie_Cost>59.95</Movie_Cost>
+<Movie_Genre>ACTION</Movie_Genre>
+<Price_Code>3</Price_Code>
+</MOVIE>
+<MOVIE>
+<Movie_Num>1236</Movie_Num>
+<Movie_Title>Richard Goodhope</Movie_Title>
+<Movie_Year>2010</Movie_Year>
+<Movie_Cost>59.95</Movie_Cost>
+<Movie_Genre>DRAMA</Movie_Genre>
+<Price_Code>2</Price_Code>
+</MOVIE>
+<MOVIE>
+<Movie_Num>1237</Movie_Num>
+<Movie_Title>Beatnik Fever</Movie_Title>
+<Movie_Year>2009</Movie_Year>
+<Movie_Cost>29.95</Movie_Cost>
+<Movie_Genre>COMEDY</Movie_Genre>
+<Price_Code>2</Price_Code>
+</MOVIE>
+<MOVIE>
+<Movie_Num>1238</Movie_Num>
+<Movie_Title>Constant Companion</Movie_Title>
+<Movie_Year>2010</Movie_Year>
+<Movie_Cost>89.95</Movie_Cost>
+<Movie_Genre>DRAMA</Movie_Genre>
+</MOVIE>
+<MOVIE>
+<Movie_Num>1239</Movie_Num>
+<Movie_Title>Where Hope Dies</Movie_Title>
+<Movie_Year>2000</Movie_Year>
+<Movie_Cost>25.49</Movie_Cost>
+<Movie_Genre>DRAMA</Movie_Genre>
+<Price_Code>3</Price_Code>
+</MOVIE>
+<MOVIE>
+<Movie_Num>1245</Movie_Num>
+<Movie_Title>Time to Burn</Movie_Title>
+<Movie_Year>2008</Movie_Year>
+<Movie_Cost>45.49</Movie_Cost>
+<Movie_Genre>ACTION</Movie_Genre>
+<Price_Code>3</Price_Code>
+</MOVIE>
+<MOVIE>
+<Movie_Num>1246</Movie_Num>
+<Movie_Title>What He Doesn&apos;t Know</Movie_Title>
+<Movie_Year>2008</Movie_Year>
+<Movie_Cost>58.29</Movie_Cost>
+<Movie_Genre>COMEDY</Movie_Genre>
+<Price_Code>1</Price_Code>
+</MOVIE>
+</dataroot>

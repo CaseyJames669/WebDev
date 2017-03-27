@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+<link rel="stylesheet" type="text/css" href="css/javaJam.css">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>Bladow Casey JavaJam Coffee House</title>
+</head>
+
+<body>
+
+<div id="wrapper">
+
+<header>
+<img src="images/javalogo.gif" alt="logo" height="117" width="619" >
+</header>
+
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="menu.html">Menu</a></li>
+<li><a href="music.html">Music</a></li>
+<li><a href="jobs.html">Jobs</a></li>
+</ul>
+</nav>
+
+<div id="content">
+<p>
+Want to work at JavaJam? Fill out the form below to start your
+application. Required fields are marked with an asterisk *.<br/>
+</p>
+
+<form method="POST" action="javajam.php">
+
+<label for="myName">*Name</label>
+<input name="myName" id="myName" type="text" required="required" /> 
+
+<label for="myEmail">*E-mail</label>
+<input name="myEmail" id="myEmail" type="text" required="required" /> 
+
+<label for="myExperience">*Experience</label>
+<textarea name="myExperience" id="myExperience" cols="20" rows="2" required="required"></textarea>
+
+<input name="applyNowButton" type="submit" value="Apply Now" />
+
+</form>
+</div>
+
+<footer>
+Copyright © 2014 JavaJam Coffe House<br/>
+<a href="bladowca@mnstate.edu">casey@bladow.com</a>
+</footer>
+
+</div>
+</body>
+
+</html>

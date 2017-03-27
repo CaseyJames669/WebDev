@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2014-03-05T14:45:50">
+<PRICE>
+<Price_Code>1</Price_Code>
+<Price_Description>Standard</Price_Description>
+<Price_RentFee>2.5</Price_RentFee>
+<Price_DailyLateFee>1</Price_DailyLateFee>
+</PRICE>
+<PRICE>
+<Price_Code>2</Price_Code>
+<Price_Description>New Release</Price_Description>
+<Price_RentFee>4</Price_RentFee>
+<Price_DailyLateFee>3</Price_DailyLateFee>
+</PRICE>
+<PRICE>
+<Price_Code>3</Price_Code>
+<Price_Description>Discount</Price_Description>
+<Price_RentFee>2</Price_RentFee>
+<Price_DailyLateFee>1</Price_DailyLateFee>
+</PRICE>
+<PRICE>
+<Price_Code>4</Price_Code>
+<Price_Description>Weekly Special</Price_Description>
+<Price_RentFee>1.5</Price_RentFee>
+<Price_DailyLateFee>0.5</Price_DailyLateFee>
+</PRICE>
+</dataroot>
